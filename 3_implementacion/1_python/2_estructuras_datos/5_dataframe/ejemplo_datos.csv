@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bba5f31142f074df784930cb9dd0522b1bae2bd35647181e2cba0deffd37cc7
+size 51
+=======
+ID,Nombre,Edad
+1,Carlos,25
+2,Ana,30
+3,Pedro,35
+>>>>>>> 8a3ea6ac175af307d5954d7887e7736aa21a9cd8
